@@ -1,0 +1,11 @@
+# Ignored Files
+*.pyc
+*.spyproject
+*.xml
+*.jpg
+*.JPG
+*.png
+*.zip
+*.pth
+*.tar
+File
